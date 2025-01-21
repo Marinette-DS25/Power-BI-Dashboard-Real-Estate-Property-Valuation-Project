@@ -1,0 +1,2 @@
+# Power-BI-Dashboard-Real-Estate-Property-Valuation-Project
+This project is a Power BI dashboard designed to understand the interplay of various factors including location, property features and market trends, in property valuation. The dashboard aims to provide valuable insights into key factors influencing property valuation empowering users with actionable data to support their decision-making processes.
